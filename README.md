@@ -1,0 +1,15 @@
+# GOFgenerating
+##### abstractfactory
+##### factorymethod1
+##### factorymethod2
+##### factorymethod3
+##### factorymethod4
+##### builder1
+##### builder2
+##### singleton1
+##### singleton2
+##### singleton3
+##### singleton4
+##### singleton5
+##### singleton6
+##### singleton7
